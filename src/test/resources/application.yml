@@ -1,3 +1,4 @@
 # Unit tests does not need config map
+# Adding to test commit after branch rule is set
 greeting:
   message: "Hello, %s!"
